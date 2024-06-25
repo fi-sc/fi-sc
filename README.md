@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of the West of England
 
 ## How to reach me 📫
 
-[![Button Linkedin]][LINK]
+[![Button Linkedin]](www.linkedin.com/in/fiorella-scarpino-76ab2627a)
 <!----------------------------------------------------------------------------->
 [Link]: www.linkedin.com/in/fiorella-scarpino-76ab2627a
 <!---------------------------------[ Buttons ]--------------------------------->
