@@ -4,19 +4,9 @@ I'm a Computer Science student at the University of the West of England
 
 ## How to reach me 📫
 
-<p>
-  <a href="www.linkedin.com/in/fiorella-scarpino-76ab2627a">
-    <img alt="linkedin" title="Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="[https://www.linkedin.com/in/alejolg/](https://fi-sc.github.io/)">
-    <img alt="website portfolio" title="Website" src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-</p>
-
-[![Button Linkedin]](www.linkedin.com/in/fiorella-scarpino-76ab2627a)
+[![Button Linkedin]][LINK]
 <!----------------------------------------------------------------------------->
-[Link]: https://www.linkedin.com/in/fiorella-scarpino-76ab2627a
+[LINK]: https://www.linkedin.com/in/fiorella-scarpino-76ab2627a
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
