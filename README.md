@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-# Im a Computer Science student at the University of the West of England 
+# I'm a Computer Science student at the University of the West of England 
 
-
-
+## How to reach me 📫
 
 [<kbd> <br>Website <br> </kbd>][WEB]
-
-
-
-
 <!---------------------------------------------------------------------------->
 [WEB]: https://fi-sc.github.io/
+
+
+[<kbd> <br>Linkedin <br> </kbd>]www.linkedin.com/in/fiorella-scarpino-76ab2627a
+<!---------------------------------------------------------------------------->
+
 
 <!--
 **fi-sc/fi-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
