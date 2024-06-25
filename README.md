@@ -16,7 +16,7 @@ I'm a Computer Science student at the University of the West of England
 
 [![Button Linkedin]](www.linkedin.com/in/fiorella-scarpino-76ab2627a)
 <!----------------------------------------------------------------------------->
-[Link]: www.linkedin.com/in/fiorella-scarpino-76ab2627a
+[Link]: https://www.linkedin.com/in/fiorella-scarpino-76ab2627a
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
