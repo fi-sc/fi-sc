@@ -11,7 +11,7 @@
 
 
 <!---------------------------------------------------------------------------->
-[WEB]: [Types/KBD.md](https://fi-sc.github.io/)
+[WEB]: (https://fi-sc.github.io/)
 
 <!--
 **fi-sc/fi-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
