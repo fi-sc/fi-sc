@@ -4,18 +4,20 @@ I'm a Computer Science student at the University of the West of England
 
 ## How to reach me 📫
 
-[![Button Linkedin]][Link]
+[![Button Linkedin]][LINK]
 <!----------------------------------------------------------------------------->
 [Link]: www.linkedin.com/in/fiorella-scarpino-76ab2627a
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
-[![Button Website]][Link]
+[![Button Website]][WEB]
 <!----------------------------------------------------------------------------->
-[Link]: https://github.com/fi-sc/fi-sc.github.io.git
+[WEB]: https://fi-sc.github.io/
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Website]: 	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+[Button Website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+
+
 
 
 [<kbd> <br>Website <br> </kbd>][WEB]
